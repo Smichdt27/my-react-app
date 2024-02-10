@@ -1,0 +1,34 @@
+.cards{
+    margin: 20px 20px 20px 50px;
+
+    
+}
+.cardsbody{
+    float: left;
+    border-radius: 5%;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.16);
+    background-color: white;
+    padding: 10px;
+    width: 20vw;
+    height: 30vh;
+    margin: 10px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 10px;
+
+}
+.cardimage{
+    height: 30%;
+    width: 30%;
+}
+.cardbutton{
+    background-color: cornflowerblue;
+    color: aliceblue;
+    padding: 7px 10px;
+    border-radius: 7px;
+    border: none;
+    cursor: pointer;
+    border-style: solid;
+}

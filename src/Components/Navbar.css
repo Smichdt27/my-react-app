@@ -1,0 +1,43 @@
+.navbar nav{
+    background-color: transparent;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.16);
+    padding:20px 10px 20px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+}
+ul, li{
+    list-style-type: none;
+    font-size: large;
+    font-weight: bold;
+    color: black;
+    font-family: calibri;
+    font-weight: bolder;
+    cursor: pointer;
+    display: flex;
+    padding: 0px 0px 0px 50px;
+}
+.login{
+    margin-right: 20px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border-style: solid;
+    border: none;
+    background-color: cornflowerblue;
+    color: white;
+    cursor: pointer;
+}
+.theme{
+    margin-right: 20px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border-style: solid;
+    border: none;
+    background-color: cornflowerblue;
+    color: white;
+    cursor: pointer;
+}
+
+
+

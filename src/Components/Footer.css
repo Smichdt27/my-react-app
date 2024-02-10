@@ -1,0 +1,13 @@
+.footerclass{
+    float: left;
+    width: 100%;
+    background-color: gray;
+    padding: 20px 0px 20px 0px;
+    margin-top: 18px;
+    height: 10vh;
+
+}
+.footerclass h5{
+    color:white;
+    margin-left: 20px;
+}
